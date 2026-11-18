@@ -1,7 +1,7 @@
 {
   "_comment": "Dev environment config. environment_id and atom_id come from Boomi Manage > Atom Management (Environment) / Atoms. atom_id is still a placeholder: the trial account's Dev environment shows 0 runtimes, so there's no atom to attach yet.",
-  "environment_id": "d4f3a670-7426-49ef-8982-764dc6b639b4",
-  "atom_id": "REPLACE-WITH-DEV-ATOM-ID",
+  "environment_id": "3b0d792f-1df8-4a80-a529-3e6a7bb31bdf",
+  "atom_id": "c65d02f9-ee44-4e73-89a2-12dde0576776",
   "extensions": {
     "_comment": "Environment-specific override values, e.g. a connection endpoint or folder path that differs from QA/PD.",
     "example_connection_url": "https://dev.example.internal/api"
